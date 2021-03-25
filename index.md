@@ -1,10 +1,11 @@
-Johnny Coder
+PARUCHURI SRI SAI VARUN
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+1 MyAddress                       paruchuri7781@gmail.com
+Guntur                         
+INDIA                             9110389675
+
 -------------------     ----------------------------
 
 Education
